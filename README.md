@@ -15,6 +15,8 @@
 ### Project Overview
 To create an analysis dashboard that provides insight into Netflicx user demographics, device usage and viewing patterns to enhance user engagement with the site.
 
+  ![Dashboard](https://github.com/Nokuthaba08/Netflix_Userbase/assets/163134368/b412984f-d549-4e55-9837-b7cab00660b4)
+
 ### Data Source 
 Kaggle [Download Here](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)
 
